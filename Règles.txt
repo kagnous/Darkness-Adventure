@@ -1,0 +1,17 @@
+Darkness Adventure :
+
+Jeux de Juste Prix sous la forme d'un rpg
+Appuyez sur la touche correspondante ou tapez oui/non dans chaque menu pour continuer
+
+Le but est d'avancer dans un donjon pour atteindre et vaincre le boss.
+
+Le combat se déroulent sous la forme d'un Juste Prix, où l'on entre une valeur entre 1 et 8. Le jeu
+indique si le monstre est a "plus" ou "moins" de cette coordonnées ou subit des dégâts.
+
+Le joueur peut hors combat utiliser des potions de soins pour récupérer 5pv ou des capes de
+furtivité pour avancer de 3 salles sans risques (et ainsi atteindre le boss sans prendre de dégâts)
+
+En dehors du donjon, il peut restaurer sa vie ou améliorer ses dégâts contre de l'or trouvable dans
+le donjon
+
+Le jeu est pas vraiment équilibré niveau ratio dégâts/pvs, mais des MAJ sont prévues

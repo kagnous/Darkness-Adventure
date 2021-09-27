@@ -1,0 +1,26 @@
+D:\Cours\C#\bin\Debug\netcoreapp3.1\C#.exe
+D:\Cours\C#\bin\Debug\netcoreapp3.1\C#.deps.json
+D:\Cours\C#\bin\Debug\netcoreapp3.1\C#.runtimeconfig.json
+D:\Cours\C#\bin\Debug\netcoreapp3.1\C#.runtimeconfig.dev.json
+D:\Cours\C#\bin\Debug\netcoreapp3.1\C#.dll
+D:\Cours\C#\bin\Debug\netcoreapp3.1\C#.pdb
+D:\Cours\C#\obj\Debug\netcoreapp3.1\C#.csprojAssemblyReference.cache
+D:\Cours\C#\obj\Debug\netcoreapp3.1\C#.AssemblyInfoInputs.cache
+D:\Cours\C#\obj\Debug\netcoreapp3.1\C#.AssemblyInfo.cs
+D:\Cours\C#\obj\Debug\netcoreapp3.1\C#.csproj.CoreCompileInputs.cache
+D:\Cours\C#\obj\Debug\netcoreapp3.1\C#.dll
+D:\Cours\C#\obj\Debug\netcoreapp3.1\C#.pdb
+D:\Cours\C#\obj\Debug\netcoreapp3.1\C#.genruntimeconfig.cache
+D:\Cours\C#\Darkness Adventure\bin\Debug\netcoreapp3.1\C#.exe
+D:\Cours\C#\Darkness Adventure\bin\Debug\netcoreapp3.1\C#.deps.json
+D:\Cours\C#\Darkness Adventure\bin\Debug\netcoreapp3.1\C#.runtimeconfig.json
+D:\Cours\C#\Darkness Adventure\bin\Debug\netcoreapp3.1\C#.runtimeconfig.dev.json
+D:\Cours\C#\Darkness Adventure\bin\Debug\netcoreapp3.1\C#.dll
+D:\Cours\C#\Darkness Adventure\bin\Debug\netcoreapp3.1\C#.pdb
+D:\Cours\C#\Darkness Adventure\obj\Debug\netcoreapp3.1\C#.csprojAssemblyReference.cache
+D:\Cours\C#\Darkness Adventure\obj\Debug\netcoreapp3.1\C#.AssemblyInfoInputs.cache
+D:\Cours\C#\Darkness Adventure\obj\Debug\netcoreapp3.1\C#.AssemblyInfo.cs
+D:\Cours\C#\Darkness Adventure\obj\Debug\netcoreapp3.1\C#.csproj.CoreCompileInputs.cache
+D:\Cours\C#\Darkness Adventure\obj\Debug\netcoreapp3.1\C#.dll
+D:\Cours\C#\Darkness Adventure\obj\Debug\netcoreapp3.1\C#.pdb
+D:\Cours\C#\Darkness Adventure\obj\Debug\netcoreapp3.1\C#.genruntimeconfig.cache
